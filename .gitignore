@@ -2,3 +2,5 @@
 __pycache__/
 .vscode/
 /memory_pool/
+/data/individual_simulation_data/vector_index/
+/data/individual_simulation_data/dialogue_system/

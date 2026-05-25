@@ -6,8 +6,9 @@ class Config:
     url = "https://api.deepseek.com/v1/"
     max_tokens = 2048
     temperature = 0.4
-    embedding_model = "bpe"
-    embedding_dim = 2560
-    embedding_url = "https://api.deepseek.com/v1/embeddings"
-    embedding_api_key = "sk-23333"
+    embedding_model = "Qwen/Qwen3-Embedding-0.6B"
+    embedding_dim = 1024
+    embedding_url = "https://api.siliconflow.cn/v1/embeddings"
+    embedding_api_key = "sk-zoirtejerfekrngpaawphdvmqjkbuqghmkxcnragodzlkynh"
     data_path = Path("data/individual_simulation_data")
+    local_chat_model_path = Path(r"D:\PYTHON\models\qwen2.5-1.5B-instruct")
