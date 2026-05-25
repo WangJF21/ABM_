@@ -1,0 +1,64 @@
+{
+  "agent": "Aria Hartley",
+  "total": 4,
+  "memories": [
+    {
+      "type": "relation",
+      "text": "与职业保龄球运动员Brock Wellington在直播中首次互动，展现出互相调侃和彼此试探的张力，对Brock产生轻微改观和兴趣。",
+      "importance": 7,
+      "source": "seed_dialogue_0"
+    },
+    {
+      "type": "preference",
+      "text": "喜欢用幽默和自嘲化解尴尬，厌恶被人轻视或看低，偏好以机智反击维持社交场面。",
+      "importance": 6,
+      "source": "seed_dialogue_0"
+    },
+    {
+      "type": "experience",
+      "text": "在社交媒体直播讨论爱好时，自嘲笨拙并引发Brock Wellington的参与，二人进行了一段以“扔保龄球”和“平衡”为主题的幽默交锋。",
+      "importance": 5,
+      "source": "seed_dialogue_0"
+    },
+    {
+      "type": "style",
+      "text": "语言幽默讽刺，善于即兴反击和借力打力，常用夸张自嘲和反问句式，如‘Tripping over air? Now why didn't I think of that’。",
+      "importance": 6,
+      "source": "seed_dialogue_0"
+    }
+  ],
+  "by_type": {
+    "relation": [
+      {
+        "type": "relation",
+        "text": "与职业保龄球运动员Brock Wellington在直播中首次互动，展现出互相调侃和彼此试探的张力，对Brock产生轻微改观和兴趣。",
+        "importance": 7,
+        "source": "seed_dialogue_0"
+      }
+    ],
+    "preference": [
+      {
+        "type": "preference",
+        "text": "喜欢用幽默和自嘲化解尴尬，厌恶被人轻视或看低，偏好以机智反击维持社交场面。",
+        "importance": 6,
+        "source": "seed_dialogue_0"
+      }
+    ],
+    "experience": [
+      {
+        "type": "experience",
+        "text": "在社交媒体直播讨论爱好时，自嘲笨拙并引发Brock Wellington的参与，二人进行了一段以“扔保龄球”和“平衡”为主题的幽默交锋。",
+        "importance": 5,
+        "source": "seed_dialogue_0"
+      }
+    ],
+    "style": [
+      {
+        "type": "style",
+        "text": "语言幽默讽刺，善于即兴反击和借力打力，常用夸张自嘲和反问句式，如‘Tripping over air? Now why didn't I think of that’。",
+        "importance": 6,
+        "source": "seed_dialogue_0"
+      }
+    ]
+  }
+}
